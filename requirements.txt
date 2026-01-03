@@ -1,0 +1,16 @@
+pyodbc
+openai
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-openai
+pandas
+SQLAlchemy
+pandas
+python-dotenv
+streamlit
+langchain-ollama
+pydantic
+tabula-py
+tabulate
