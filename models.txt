@@ -1,0 +1,5 @@
+Qwen/Qwen3-8B-GGUF
+Qwen/Qwen3-4B-Thinking-2507-FP8
+Qwen/Qwen3-4B-Thinking-2507
+internlm/internlm3-8b-instruct
+internlm/internlm3-8b-instruct-gguf
